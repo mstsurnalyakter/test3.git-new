@@ -1,0 +1,3 @@
+Working directory -> Stagging area -> Local Repository -> Remote Repository
+
+    project      -> git add .     -> git commit -m     -> git push 
